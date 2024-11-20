@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Smoked Eggs",
+        "ingredients": ["eggs"],
+        "instructions": "Smoke eggs with wood chips for 15 minutes. Season with salt and pepper."
+    },
+    {
+        "id": 2,
+        "name": "Roasted Pork Chops",
+        "ingredients": ["pork chops", "olive oil", "garlic", "rosemary", "salt", "pepper"],
+        "instructions": "Rub pork chops with oil, garlic, rosemary, salt, and pepper. Roast at 400°F for 25-30 minutes."
+    },
+    {
+        "id": 3,
+        "name": "Spicy Lime Grilled Shrimp",
+        "ingredients": ["shrimp", "lime juice", "chili powder", "garlic", "olive oil", "salt"],
+        "instructions": "Marinate shrimp in lime juice, chili powder, garlic, and oil for 15 minutes. Grill for 2-3 minutes per side."
+    },
+    {
+        "id": 4,
+        "name": "Baked Chicken Breasts",
+        "ingredients": ["chicken breasts", "olive oil", "salt", "pepper", "herbs"],
+        "instructions": "Season chicken breasts with oil, salt, pepper, and herbs. Bake at 375°F for 20-25 minutes."
+    },
+    {
+        "id": 5,
+        "name": "Crunchy French Onion Chicken",
+        "ingredients": ["chicken breasts", "French onion soup mix", "breadcrumbs", "eggs"],
+        "instructions": "Coat chicken in beaten eggs, then in soup mix and breadcrumbs. Bake at 375°F for 30 minutes."
+    },
+    {
+        "id": 6,
+        "name": "Barbeque Bacon Chicken Bake",
+        "ingredients": ["chicken breasts", "barbecue sauce", "bacon", "cheddar cheese"],
+        "instructions": "Top chicken with barbecue sauce, bacon, and cheese. Bake at 400°F for 20-25 minutes."
+    },
+    {
+        "id": 7,
+        "name": "Avocado Salad",
+        "ingredients": ["avocado", "tomato", "red onion", "cilantro", "lime juice", "salt", "pepper"],
+        "instructions": "Combine diced avocado, tomato, onion, and cilantro. Dress with lime juice, salt, and pepper."
+    },
+    {
+        "id": 8,
+        "name": "Sausage with Peppers and Potatoes",
+        "ingredients": ["sausages", "bell peppers", "potatoes", "olive oil", "salt", "pepper"],
+        "instructions": "Sauté sliced sausage, peppers, and potatoes in oil. Season with salt and pepper."
+    },
+    {
+        "id": 9,
+        "name": "Grilled Onions",
+        "ingredients": ["onions", "olive oil", "salt", "pepper"],
+        "instructions": "Slice onions, coat with oil, salt, and pepper. Grill until tender and caramelized."
+    }
+]
