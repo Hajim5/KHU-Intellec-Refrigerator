@@ -8,7 +8,7 @@
     {
         "id": 2,
         "name": "Roasted Pork Chops",
-        "ingredients": ["pork chops", "olive oil", "garlic", "rosemary", "salt", "pepper"],
+        "ingredients": ["pork chops", "olive oil", "garlic", "salt", "pepper"],
         "instructions": "Rub pork chops with oil, garlic, rosemary, salt, and pepper. Roast at 400°F for 25-30 minutes."
     },
     {
