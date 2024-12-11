@@ -15,7 +15,7 @@ The SmartFridge project uses YOLOv5 and a custom dataset to detect items in a fr
 ---
 
 ## Dataset and Model
-The dataset and model are hosted on Roboflow. You can access them [here](https://universe.roboflow.com/capstoneproject-yly17/fridge_roboflow/model/1).
+The dataset and model are hosted on Roboflow. You can access them [here](https://universe.roboflow.com/capstoneproject-yly17/fridge_roboflow).
 
 ---
 
