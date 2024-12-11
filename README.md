@@ -24,3 +24,13 @@ from roboflow import Roboflow
 rf = Roboflow(api_key="YOUR_API_KEY")
 project = rf.workspace().project("fridge_roboflow")
 dataset = project.version(1).download("yolov5")
+
+### Demo
+Here's an example of the SmartFridge system in action:
+
+**Step 1: Object Detection in the Fridge**
+![Object Detection](path/to/screenshot1.png)
+
+**Step 2: Recipe Recommendation Based on Detected Ingredients**
+![Recipe Recommendation](path/to/screenshot2.png)
+
