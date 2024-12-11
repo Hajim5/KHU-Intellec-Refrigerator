@@ -20,11 +20,22 @@ The dataset and model are hosted on Roboflow. You can access them [here](https:/
 ---
 
 ## Demo
-Here’s an example of the SmartFridge system in action:
+Here are some examples of the SmartFridge system in action:
 
 ### Step 1: Object Detection in the Fridge
 **Center Shelf Detection Result:**
 ![Center Shelf Detection](demo_result/center_shelf_demo_result.jpg)
+
+**Door Shelf Detection Result:**
+![Door Shelf Detection](demo_result/door_shelf_demo_result.jpg)
+
+### Step 2: Recipe Matching and Ingredient Recognition
+**Ingredient Detection Output:**
+![Ingredient Output](demo_result/demo_ingredient_output.png)
+
+### Step 3: Recipe Suggestion Based on Detected Ingredients
+**Recipe Suggestion Output:**
+![Recipe Output](demo_result/demo_receipe_output.jpg)
 
 ---
 
