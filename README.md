@@ -17,14 +17,6 @@ The SmartFridge project uses YOLOv5 and a custom dataset to detect items in a fr
 ## Dataset and Model
 The dataset and model are hosted on Roboflow. You can access them [here](https://universe.roboflow.com/capstoneproject-yly17/fridge_roboflow/model/1).
 
-### **Example: Download Dataset via API**
-```python
-from roboflow import Roboflow
-
-rf = Roboflow(api_key="YOUR_API_KEY")
-project = rf.workspace().project("fridge_roboflow")
-dataset = project.version(1).download("yolov5")
-
 ---
 
 ## Demo
@@ -36,6 +28,10 @@ Here’s an example of the SmartFridge system in action:
 
 ---
 
-**Step 2: Recipe Recommendation Based on Detected Ingredients**
-![Recipe Recommendation](path/to/screenshot2.png)
+## How to Use
+1. Clone the repository.
+2. Follow the steps in the `model_training.py` script to train the YOLOv5 model.
+3. Use the `recommendation.py` script to generate recipe suggestions based on detected ingredients.
+4. Refer to the [Roboflow Documentation](https://roboflow.com) to access and manage the dataset.
 
+---
