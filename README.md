@@ -1,8 +1,8 @@
 # KHU Intellec Refrigerator
-SmartFridge: Intelligent Recipe Recommendation System
+Intellec Refrigerator : Intelligent Recipe Recommendation System
 
 ## Overview
-The SmartFridge project uses YOLOv5 and a custom dataset to detect items in a fridge and recommend recipes based on the detected ingredients. This system integrates object detection, recipe matching, and a user-friendly interface to enhance the cooking experience.
+The Intellec Refrigerator project uses YOLOv5 and a custom dataset to detect items in a fridge and recommend recipes based on the detected ingredients. This system integrates object detection, recipe matching, and a user-friendly interface to enhance the cooking experience.
 
 ---
 
@@ -51,7 +51,7 @@ Here are some examples of the SmartFridge system in action:
 
 ## Conclusion and Future Work
 
-The **SmartFridge** project demonstrates the potential of using YOLOv5 for food item detection and recipe recommendation, integrating computer vision with practical applications in meal planning. By leveraging a custom dataset and Roboflow for annotation, the system can detect and suggest recipes based on the available ingredients in a fridge, enhancing the cooking experience for users.
+The **Intellec Refrigerator** project demonstrates the potential of using YOLOv5 for food item detection and recipe recommendation, integrating computer vision with practical applications in meal planning. By leveraging a custom dataset and Roboflow for annotation, the system can detect and suggest recipes based on the available ingredients in a fridge, enhancing the cooking experience for users.
 
 ### Future Research:
 - **Improved Annotation Method**: Future research may focus on refining the annotation process, such as using polygonal annotations, to improve accuracy and make it applicable in more diverse settings.
