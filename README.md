@@ -1,4 +1,5 @@
-# SmartFridge: Intelligent Recipe Recommendation System
+# KHU Intellec Refrigerator
+SmartFridge: Intelligent Recipe Recommendation System
 
 ## Overview
 The SmartFridge project uses YOLOv5 and a custom dataset to detect items in a fridge and recommend recipes based on the detected ingredients. This system integrates object detection, recipe matching, and a user-friendly interface to enhance the cooking experience.
