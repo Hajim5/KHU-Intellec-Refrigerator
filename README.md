@@ -49,10 +49,18 @@ Here are some examples of the SmartFridge system in action:
 ---
 
 ## Conclusion and Future Work
-The SmartFridge project demonstrates the potential of AI in enhancing daily life through intelligent recipe recommendations. Future improvements include:
-- Adding voice assistant integration.
-- Supporting additional food item types.
-- Improving detection accuracy for small or obscured items.
+
+The **SmartFridge** project demonstrates the potential of using YOLOv5 for food item detection and recipe recommendation, integrating computer vision with practical applications in meal planning. By leveraging a custom dataset and Roboflow for annotation, the system can detect and suggest recipes based on the available ingredients in a fridge, enhancing the cooking experience for users.
+
+### Future Research:
+- **Improved Annotation Method**: Future research may focus on refining the annotation process, such as using polygonal annotations, to improve accuracy and make it applicable in more diverse settings.
+- **3D Image Recognition**: By incorporating 3D imaging technology, models could better recognize items under varying lighting conditions and from different viewpoints, leading to higher accuracy in object detection.
+- **Expiration-based Recipe Recommendations**: A valuable addition would be the ability to recommend recipes using items that are close to expiration, helping to reduce food waste and enabling more personalized meal planning.
+- **Voice Commands and Nutritional Analysis**: Incorporating voice commands or providing nutritional analysis of recipes would improve the user experience, offering convenience and health insights.
+- **Integration with E-commerce**: Integrating the system with e-commerce platforms could facilitate the purchase of missing ingredients and provide functionality for recognizing items stored in other conditions, such as in pantries or freezers.
+
+These improvements could expand the capabilities of the **SmartFridge** system, making it more useful for everyday cooking while promoting sustainability and a more personalized experience for users.
+
 
 ---
 
