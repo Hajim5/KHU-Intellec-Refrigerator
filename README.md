@@ -39,7 +39,9 @@ Example for downloading the dataset via API:
 from roboflow import Roboflow
 
 rf = Roboflow(api_key="YOUR_API_KEY")
+
 project = rf.workspace().project("fridge_roboflow")
+
 dataset = project.version(1).download("yolov5")
 
 This ensures that anyone viewing your repository understands how to access and use the Roboflow model. If you're sharing the model weights or dataset files, ensure you're allowed to distribute them as per Roboflow's terms of use.
