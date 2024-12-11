@@ -16,7 +16,7 @@ The Intellec Refrigerator project uses YOLOv5 and a custom dataset to detect ite
 ---
 
 ## Dataset and Model
-The dataset and model are hosted on Roboflow. You can access them [here](https://universe.roboflow.com/capstoneproject-yly17/fridge_roboflow).
+The dataset and model are hosted on Roboflow. You can access them [here](https://universe.roboflow.com/capstoneproject-yly17/khu_intellec_refrigerator).
 
 ---
 
