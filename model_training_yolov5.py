@@ -23,3 +23,5 @@ dataset = project.version("VERSION_NUMBER").download("yolov5")
 # Step 4: Train the YOLOv5 Model
 # Replace "PATH_TO_YAML" with the actual path to your dataset's YAML file
 !python train.py \--img 640 \   --batch 16 \   --epochs 50 \   --data "PATH_TO_YAML" \ --weights yolov5s.pt 
+
+!python detect.py --weights path/to/your/weights.pt --img 640 --conf 0.25 --source path/to/your/image.jpg
