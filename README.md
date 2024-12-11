@@ -27,6 +27,7 @@ Here are some examples of the SmartFridge system in action:
 ![Center Shelf Detection](demo_result/center_shelf_demo_result.jpg)
 
 **Door Shelf Detection Result:**
+
 ![Door Shelf Detection](demo_result/door_shelf_demo_result.jpg)
 
 ### Step 2: Recipe Matching and Ingredient Recognition
