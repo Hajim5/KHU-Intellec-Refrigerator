@@ -47,3 +47,14 @@ Here are some examples of the SmartFridge system in action:
 4. Refer to the [Roboflow Documentation](https://roboflow.com) to access and manage the dataset.
 
 ---
+
+## Conclusion and Future Work
+The SmartFridge project demonstrates the potential of AI in enhancing daily life through intelligent recipe recommendations. Future improvements include:
+- Adding voice assistant integration.
+- Supporting additional food item types.
+- Improving detection accuracy for small or obscured items.
+
+---
+
+## License
+This project is licensed under the GPL-3.0 License.
