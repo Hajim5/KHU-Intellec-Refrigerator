@@ -29,7 +29,7 @@ dataset = project.version(1).download("yolov5")
 Here's an example of the SmartFridge system in action:
 
 **Step 1: Object Detection in the Fridge**
-![Object Detection](path/to/screenshot1.png)
+![Object Detection](path/to/center_shelf_demo_result.jpg)
 
 **Step 2: Recipe Recommendation Based on Detected Ingredients**
 ![Recipe Recommendation](path/to/screenshot2.png)
